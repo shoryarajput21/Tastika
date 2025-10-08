@@ -1,2 +1,1 @@
-# Tastika
-Pickle store
+# Tasty_Jar.in
